@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Some of My Favorite TV Shows
+* The Expanse
+* His Dark Materials
+* Battlestar Galactica
+* The Wheel of Time
